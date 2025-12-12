@@ -1,0 +1,5 @@
+{
+  "name": "CalcFin",
+  "description": "A smart Calculus 1 weakness analyzer and action plan generator powered by Gemini.",
+  "requestFramePermissions": []
+}
